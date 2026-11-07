@@ -5,7 +5,7 @@ I'm a student in grade 9 in the San Fernando Valley, learning AI and data scienc
 
 ## About me
 
-- I'm interested in: coding and watching soccer
+- I'm interested in: coding, watching soccer, and teaching
 - Outside of school I like to: hiking and traveling
 - One thing I'd like to build or find out with data: treating diabetes patients
 
